@@ -17,4 +17,4 @@
   - name: Copy file with owner and permissions
     copy:
      src: index.html #coping file from localhost(create this file on your local machine)
-     dest: /var/www/html/index.html
+     dest: /tmp/index.html
